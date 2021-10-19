@@ -1,0 +1,5 @@
+export VIVADO_PATH=/media/jjc/ASUS/xilinx/Vivado/2020.2
+export FE_PATH=/home/jjc/Desktop/finn-master/finn_examples
+export PYNQ_IP=192.168.85.72
+export VITIS_PATH=/media/jjc/ASUS/xilinx/Vitis
+export PLATFORM_REPO_PATHS=/opt/xilinx/platforms
