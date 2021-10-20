@@ -3,3 +3,5 @@ export FE_PATH=/home/jjc/Desktop/finn-examples-main/finn_examples
 export PYNQ_IP=192.168.85.72
 export VITIS_PATH=/media/jjc/ASUS/xilinx/Vitis
 export PLATFORM_REPO_PATHS=/opt/xilinx/platforms
+
+http://www.aiotlab.org/teaching/fpga.html
