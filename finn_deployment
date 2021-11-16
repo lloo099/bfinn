@@ -4,4 +4,13 @@ export PYNQ_IP=192.168.85.72
 export VITIS_PATH=/media/jjc/ASUS/xilinx/Vitis
 export PLATFORM_REPO_PATHS=/opt/xilinx/platforms
 
+
+enai:
+export VIVADO_PATH=/tools/Xilinx/Vivado/2020.1
+export FE_PATH=/home/enai/Desktop/project/finn-examples-main/finn_examples
+export PYNQ_IP=192.168.1.7
+export VITIS_PATH=/tools/Xilinx/Vitis
+export PLATFORM_REPO_PATHS=/opt/xilinx/platforms
+./run-docker.sh build_custom /home/enai/Desktop/project/finn/build/fpga_flow
+
 http://www.aiotlab.org/teaching/fpga.html
