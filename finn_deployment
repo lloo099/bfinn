@@ -11,6 +11,10 @@ export FE_PATH=/home/enai/Desktop/project/finn-examples-main/finn_examples
 export PYNQ_IP=192.168.1.7
 export VITIS_PATH=/tools/Xilinx/Vitis
 export PLATFORM_REPO_PATHS=/opt/xilinx/platforms
+export FINN_XILINX_PATH=/tools/Xilinx
+export FINN_XILINX_VERSION=2020.1
 ./run-docker.sh build_custom /home/enai/Desktop/project/finn/build/fpga_flow
+(base) enai@enai-System-Product-Name:~/Desktop/project/enai0/finn/finn-examples/build/finn$ bash ./run-docker.sh build_custom /home/enai/Desktop/project/enai0/finn/finn-examples/build/resnet50
+
 
 http://www.aiotlab.org/teaching/fpga.html
